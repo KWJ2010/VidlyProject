@@ -4,46 +4,25 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 using Vidly.Models;
+using Vidly.ViewModels;
 
 namespace Vidly.Controllers
 {
     public class MoviesController : Controller
     {
-        // GET: Movies/Random
-        public ActionResult Random()
+        public ViewResult Index()
         {
-            //ActionResult contains: ViewResult + View(), PartialViewResult + PartialView(), ContentResult + Content(),
-            //RedirectResult + Redirect(), RedirectToRouteResult + RedirectToAction(), JsonResult + Json(), FileResult + File(), 
-            //HttpNotFoundResult + HttpNotFound(), EmptyResult = void
-
-            //If emptyResult...
-            //return new EmptyResult();
-
-            //ToDo: this model should come from a database full of Movie objects
-            var movie = new Movie() { Name = "Shrek!" }; 
-
-            return View(movie);
+            var movies = GetMovies();
+            return View(movies);
         }
 
-        [Route("movies/released/{year}/{month:regex(\\d{2}):range(1,12)}")]
-        public ActionResult ByReleasedByYear(int year, int month)
+        private IEnumerable<Movie> GetMovies()
         {
-            return Content(year + "/" + month);
-        }
-
-
-        //movies
-        public ActionResult Index(int? pageIndex, string sortBy)
-        {
-            if (!pageIndex.HasValue)
+            return new List<Movie>
             {
-                pageIndex = 1;
-            }
-            if (String.IsNullOrWhiteSpace(sortBy))
-            {
-                sortBy = "Name";
-            }
-            return Content(String.Format("pageIndex={0}&sortBy={1}", pageIndex, sortBy));
+                new Movie { Id = 1, Name = "Shrek" },
+                new Movie { Id = 2, Name = "Hunt for Red October"  }
+            };
         }
     }
 }
