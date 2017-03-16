@@ -162,3 +162,14 @@ C:\Users\kjohnson\Documents\GitHub\VidlyProject\Vidly\bin\Microsoft.Owin.Securit
 C:\Users\kjohnson\Documents\GitHub\VidlyProject\Vidly\obj\Debug\Vidly.csprojResolveAssemblyReference.cache
 C:\Users\kjohnson\Documents\GitHub\VidlyProject\Vidly\obj\Debug\Vidly.dll
 C:\Users\kjohnson\Documents\GitHub\VidlyProject\Vidly\obj\Debug\Vidly.pdb
+C:\Users\kjohnson\Documents\GitHub\VidlyProject\Vidly\obj\Debug\Vidly.Migrations.InitialModel.resources
+C:\Users\kjohnson\Documents\GitHub\VidlyProject\Vidly\obj\Debug\Vidly.csproj.GenerateResource.Cache
+C:\Users\kjohnson\Documents\GitHub\VidlyProject\Vidly\obj\Debug\Vidly.Migrations.AddIsSubscribedToCustomer.resources
+C:\Users\kjohnson\Documents\GitHub\VidlyProject\Vidly\obj\Debug\Vidly.Migrations.AddMembershipType.resources
+C:\Users\kjohnson\Documents\GitHub\VidlyProject\Vidly\obj\Debug\Vidly.Migrations.PopulateMembershipTypes.resources
+C:\Users\kjohnson\Documents\GitHub\VidlyProject\Vidly\obj\Debug\Vidly.Migrations.ApplyAtributesToCustomerNameProperty.resources
+C:\Users\kjohnson\Documents\GitHub\VidlyProject\Vidly\obj\Debug\Vidly.Migrations.AddedNameToMembershipType.resources
+C:\Users\kjohnson\Documents\GitHub\VidlyProject\Vidly\obj\Debug\Vidly.Migrations.PopulateMembershipNames.resources
+C:\Users\kjohnson\Documents\GitHub\VidlyProject\Vidly\obj\Debug\Vidly.Migrations.AddBirthdateToCustomer.resources
+C:\Users\kjohnson\Documents\GitHub\VidlyProject\Vidly\obj\Debug\Vidly.Migrations.AddMovie.resources
+C:\Users\kjohnson\Documents\GitHub\VidlyProject\Vidly\obj\Debug\Vidly.Migrations.PopulateGenres.resources
