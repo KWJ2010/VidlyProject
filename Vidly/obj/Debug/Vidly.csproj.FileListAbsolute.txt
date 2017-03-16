@@ -159,7 +159,6 @@ C:\Users\kjohnson\Documents\GitHub\VidlyProject\Vidly\bin\Microsoft.Owin.Securit
 C:\Users\kjohnson\Documents\GitHub\VidlyProject\Vidly\bin\Microsoft.Owin.Security.Google.xml
 C:\Users\kjohnson\Documents\GitHub\VidlyProject\Vidly\bin\Microsoft.Owin.Security.Twitter.xml
 C:\Users\kjohnson\Documents\GitHub\VidlyProject\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-C:\Users\kjohnson\Documents\GitHub\VidlyProject\Vidly\obj\Debug\Vidly.csprojResolveAssemblyReference.cache
 C:\Users\kjohnson\Documents\GitHub\VidlyProject\Vidly\obj\Debug\Vidly.dll
 C:\Users\kjohnson\Documents\GitHub\VidlyProject\Vidly\obj\Debug\Vidly.pdb
 C:\Users\kjohnson\Documents\GitHub\VidlyProject\Vidly\obj\Debug\Vidly.Migrations.InitialModel.resources
@@ -173,3 +172,4 @@ C:\Users\kjohnson\Documents\GitHub\VidlyProject\Vidly\obj\Debug\Vidly.Migrations
 C:\Users\kjohnson\Documents\GitHub\VidlyProject\Vidly\obj\Debug\Vidly.Migrations.AddBirthdateToCustomer.resources
 C:\Users\kjohnson\Documents\GitHub\VidlyProject\Vidly\obj\Debug\Vidly.Migrations.AddMovie.resources
 C:\Users\kjohnson\Documents\GitHub\VidlyProject\Vidly\obj\Debug\Vidly.Migrations.PopulateGenres.resources
+C:\Users\kjohnson\Documents\GitHub\VidlyProject\Vidly\obj\Debug\Vidly.csprojResolveAssemblyReference.cache
