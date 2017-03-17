@@ -179,3 +179,5 @@ C:\Users\kjohnson\Documents\GitHub\VidlyProject\Vidly\bin\System.Web.Http.WebHos
 C:\Users\kjohnson\Documents\GitHub\VidlyProject\Vidly\bin\System.Net.Http.Formatting.xml
 C:\Users\kjohnson\Documents\GitHub\VidlyProject\Vidly\bin\System.Web.Http.xml
 C:\Users\kjohnson\Documents\GitHub\VidlyProject\Vidly\bin\System.Web.Http.WebHost.xml
+C:\Users\kjohnson\Documents\GitHub\VidlyProject\Vidly\bin\AutoMapper.dll
+C:\Users\kjohnson\Documents\GitHub\VidlyProject\Vidly\bin\AutoMapper.xml
