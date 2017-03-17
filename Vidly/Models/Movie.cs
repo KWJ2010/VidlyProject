@@ -26,6 +26,7 @@ namespace Vidly.Models
         public DateTime ReleaseDate { get; set; }
 
         [Display(Name = "Number in Stock")]
+        [Range(1, 25)]
         public byte NumberInStock { get; set; }
     }
 }

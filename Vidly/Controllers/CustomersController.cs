@@ -29,6 +29,7 @@ namespace Vidly.Controllers
             //So, wrap customer type into view model, and pass that in
             var viewModel = new CustomerFormViewModel
             {
+                Customer = new Customer(),
                 MembershipTypes = membershipTypes
             };
             return View("CustomerForm", viewModel); 
@@ -36,8 +37,19 @@ namespace Vidly.Controllers
 
         //If an action modifies data, always limit to a http POST to keep a get call from messing things up
         [HttpPost]
+        [ValidateAntiForgeryToken]
         public ActionResult Save(Customer customer)
         {
+            if (!ModelState.IsValid)
+            {
+                var viewModel = new CustomerFormViewModel
+                {
+                    Customer = customer,
+                    MembershipTypes = _context.MembershipTypes.ToList()
+                };
+                return View("CustomerForm", viewModel);
+            }
+
             if (customer.Id == 0)
             {
                 _context.Customers.Add(customer);
