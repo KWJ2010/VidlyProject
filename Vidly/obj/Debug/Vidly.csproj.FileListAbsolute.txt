@@ -172,7 +172,6 @@ C:\Users\kjohnson\Documents\GitHub\VidlyProject\Vidly\obj\Debug\Vidly.Migrations
 C:\Users\kjohnson\Documents\GitHub\VidlyProject\Vidly\obj\Debug\Vidly.Migrations.AddBirthdateToCustomer.resources
 C:\Users\kjohnson\Documents\GitHub\VidlyProject\Vidly\obj\Debug\Vidly.Migrations.AddMovie.resources
 C:\Users\kjohnson\Documents\GitHub\VidlyProject\Vidly\obj\Debug\Vidly.Migrations.PopulateGenres.resources
-C:\Users\kjohnson\Documents\GitHub\VidlyProject\Vidly\obj\Debug\Vidly.csprojResolveAssemblyReference.cache
 C:\Users\kjohnson\Documents\GitHub\VidlyProject\Vidly\bin\System.Net.Http.Formatting.dll
 C:\Users\kjohnson\Documents\GitHub\VidlyProject\Vidly\bin\System.Web.Http.dll
 C:\Users\kjohnson\Documents\GitHub\VidlyProject\Vidly\bin\System.Web.Http.WebHost.dll

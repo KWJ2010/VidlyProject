@@ -19,8 +19,10 @@ namespace Vidly.Dtos
 
         public byte MembershipTypeId { get; set; }
 
-      //  [Min18YearsIfAMember] this breaks if included , because there are now 2 methods for creating a customer, the api and the form.
-      //The form should be modified to use the api and a new custom validation method
+        public MembershipTypeDto MembershipType { get; set; }
+
+        //  [Min18YearsIfAMember] this breaks if included , because there are now 2 methods for creating a customer, the api and the form.
+        //The form should be modified to use the api and a new custom validation method
         public DateTime? Birthdate { get; set; }
     }
 }
