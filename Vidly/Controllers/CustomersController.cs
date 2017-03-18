@@ -76,8 +76,11 @@ namespace Vidly.Controllers
         // GET: Customers
         public ViewResult Index()
         {
-            var customers = _context.Customers.Include(c => c.MembershipType).ToList();
-            return View(customers);
+            //This is not needed now that we are rendering this using ajax and the client machines
+            //var customers = _context.Customers.Include(c => c.MembershipType).ToList();
+            //return View(customers);
+            return View();
+
         }
         public ActionResult Details(int id)
         {
