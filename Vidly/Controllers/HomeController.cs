@@ -9,6 +9,9 @@ namespace Vidly.Controllers
     [AllowAnonymous]
     public class HomeController : Controller
     {
+        //CACHE is an optimization to lower server calls by using cached html data. Can result in "stale" data
+        //to DISABLE cahcing:  //[OutputCache(Duration = 0, VaryByParam ="*", NoStore = true)]
+        [OutputCache(Duration = 50, Location = System.Web.UI.OutputCacheLocation.Server, VaryByParam = "*")]
         public ActionResult Index()
         {
             return View();
