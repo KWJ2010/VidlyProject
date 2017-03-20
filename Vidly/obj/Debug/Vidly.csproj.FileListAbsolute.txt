@@ -187,3 +187,5 @@ C:\Users\kjohnson\Documents\GitHub\VidlyProject\Vidly\obj\Debug\Vidly.Migrations
 C:\Users\kjohnson\Documents\GitHub\VidlyProject\Vidly\bin\Glimpse.AspNet.dll
 C:\Users\kjohnson\Documents\GitHub\VidlyProject\Vidly\bin\Glimpse.Core.dll
 C:\Users\kjohnson\Documents\GitHub\VidlyProject\Vidly\bin\Glimpse.Mvc5.dll
+C:\Users\kjohnson\Documents\GitHub\VidlyProject\Vidly\obj\Debug\Vidly.Migrations.AddRental.resources
+C:\Users\kjohnson\Documents\GitHub\VidlyProject\Vidly\obj\Debug\Vidly.Migrations.AddNumberAvailableToMovie.resources
