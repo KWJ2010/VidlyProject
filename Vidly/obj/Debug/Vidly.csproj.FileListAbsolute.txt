@@ -180,7 +180,6 @@ C:\Users\kjohnson\Documents\GitHub\VidlyProject\Vidly\bin\System.Web.Http.xml
 C:\Users\kjohnson\Documents\GitHub\VidlyProject\Vidly\bin\System.Web.Http.WebHost.xml
 C:\Users\kjohnson\Documents\GitHub\VidlyProject\Vidly\bin\AutoMapper.dll
 C:\Users\kjohnson\Documents\GitHub\VidlyProject\Vidly\bin\AutoMapper.xml
-C:\Users\kjohnson\Documents\GitHub\VidlyProject\Vidly\obj\Debug\Vidly.csprojResolveAssemblyReference.cache
 C:\Users\kjohnson\Documents\GitHub\VidlyProject\Vidly\obj\Debug\Vidly.Migrations.SeedUsers.resources
 C:\Users\kjohnson\Documents\GitHub\VidlyProject\Vidly\obj\Debug\Vidly.Migrations.AddDrivingLicenseToApplcationUser.resources
 C:\Users\kjohnson\Documents\GitHub\VidlyProject\Vidly\obj\Debug\Vidly.Migrations.AddPhoneToUserApplication.resources
@@ -189,3 +188,4 @@ C:\Users\kjohnson\Documents\GitHub\VidlyProject\Vidly\bin\Glimpse.Core.dll
 C:\Users\kjohnson\Documents\GitHub\VidlyProject\Vidly\bin\Glimpse.Mvc5.dll
 C:\Users\kjohnson\Documents\GitHub\VidlyProject\Vidly\obj\Debug\Vidly.Migrations.AddRental.resources
 C:\Users\kjohnson\Documents\GitHub\VidlyProject\Vidly\obj\Debug\Vidly.Migrations.AddNumberAvailableToMovie.resources
+C:\Users\kjohnson\Documents\GitHub\VidlyProject\Vidly\obj\Debug\Vidly.csprojResolveAssemblyReference.cache
