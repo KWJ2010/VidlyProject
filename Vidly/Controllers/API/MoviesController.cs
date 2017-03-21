@@ -11,6 +11,7 @@ using AutoMapper;
 
 namespace Vidly.Controllers.API
 {
+    //Todo: something is off with adding movies
     public class MoviesController : ApiController
     {
         private ApplicationDbContext _context;
